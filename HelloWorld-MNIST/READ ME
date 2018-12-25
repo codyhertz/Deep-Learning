@@ -1,0 +1,7 @@
+This is a short example program to help new users of TensorFlow to understand the flow and structure of a basic Tensorflow
+based neural network without the help of Keras.
+
+Requirments: Python 3.6.6
+             TensorFlow(GPU version recommended for future projects)
+             
+ 
